@@ -1,0 +1,17 @@
+1.Một hàm là một nhóm code có thể tái sử dụng mà có thể được gọi bất cứ đâu trong chương trình của bạn. Điều này giúp bạn không cần thiết phải viết cùng một code lại nhiều lần. Nó giúp các nhà lập trình viết các modular code. Các hàm cho phép một nhà lập trình phân chia một chương trình lớn thành các hàm nhỏ và dễ quản lý.
+2.có 2 cách 
+cách 1:
+function name (parameter)
+ {
+       statements 
+ }
+cách 2 :
+const name = (parameter) => {
+	statements
+}
+3.Để gọi một hàm ở đâu đó sau khi trong script, bạn đơn giản sẽ cần viết tên của hàm đó
+4.Một hàm JavaScript có thể có một lệnh return tùy ý. Lệnh này được yêu cầu nếu bạn muốn trả về một giá trị từ một hàm.
+5. có
+6.function parameters được nhập vào trong 2 dấu () ở phần function definition
+function arguments là giá trị nhận bởi function khi nó đc gọi
+7. import { tên function } from 'tên file'; // or './tên file'
